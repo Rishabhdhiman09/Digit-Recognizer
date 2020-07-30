@@ -1,4 +1,5 @@
 # Digit-Recognizer
 
 It is a very basic project on Digit Recognition using Decision Tree Classifier.
-70-30 Split of data from training and validation
+
+70-30 Split of data for training and validation
